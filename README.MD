@@ -8,6 +8,6 @@ ld06.py contains a fairly efficient way to process the data and is heavily comme
 
 
 References:
-https://www.inno-maker.com/product/lidar-ld06/
-https://www.inno-maker.com/wp-content/uploads/2020/11/LDROBOT_LD06_Datasheet.pdf
-https://www.elecrow.com/download/product/SLD06360F/LD19_Development%20Manual_V2.3.pdf
+[Inno Maker Product Page](https://www.inno-maker.com/product/lidar-ld06/)
+[Inno Maker Datasheet](https://www.inno-maker.com/wp-content/uploads/2020/11/LDROBOT_LD06_Datasheet.pdf)
+[Elecrow Development Manual](https://www.elecrow.com/download/product/SLD06360F/LD19_Development%20Manual_V2.3.pdf)
