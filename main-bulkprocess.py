@@ -7,7 +7,7 @@ buffer = b''
 
 while True:
     # Read a large chunk of data. Micropython holds >1k of data in the buffer, or ~20 packets
-    chunk = ser.read(1024)
+    chunk = ser.read(1500)
     if chunk is not None:
         buffer += chunk
 
